@@ -1,0 +1,8 @@
+# Parcel build artifacts
+
+.cache/
+dist/
+
+# Node
+
+node_modules/

@@ -1,0 +1,23 @@
+{
+  "name": "moshify",
+  "version": "1.0.0",
+  "description": "Code along with part 3 of Mosh Hamedani's \"The Ultimate HTML5 &amp; CSS3 Series\" building the Moshify website for a fictional cloud-hosting provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmcaffeine/moshify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmcaffeine/moshify/issues"
+  },
+  "homepage": "https://github.com/mmmcaffeine/moshify#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
